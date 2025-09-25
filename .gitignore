@@ -1,3 +1,4 @@
 .ipynp_checkpoints
 *.wav
 *.json
+data/*
